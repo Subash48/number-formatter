@@ -1,0 +1,27 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "Formatting a Number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subash48/number-formatter.git"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "keywords": [
+    "number",
+    "formatter",
+    "numberformatter"
+  ],
+  "author": "Subash Mani <rsubashmani@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subash48/number-formatter/issues"
+  },
+  "homepage": "https://github.com/Subash48/number-formatter#readme"
+}
